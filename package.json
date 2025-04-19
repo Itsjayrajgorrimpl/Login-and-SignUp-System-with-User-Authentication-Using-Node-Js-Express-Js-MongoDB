@@ -2,7 +2,7 @@
   "name": "login-signup-system",
   "version": "1.0.0",
   "description": "Login and Signup system using Node.js, Express, MongoDB",
-  "main": "index.js", 
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
