@@ -1,3 +1,8 @@
+"scripts": {
+  "start": "node index.js"
+}
+
+
 {
   "name": "login-auth-system",
   "version": "1.0.0",
